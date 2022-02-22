@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: 90vh;
+}
+
+.incrementButton{
+  width: 5rem;
+  height: 2rem;
+  border-radius: 5px;
+}
